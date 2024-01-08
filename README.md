@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercise 1
 ## Created by
 Kam Shing (Timothy) 
 
