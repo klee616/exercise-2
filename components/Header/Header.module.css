@@ -1,0 +1,10 @@
+.nav{
+    width: 100vh;
+    display: flex;
+    list-style: none;
+}
+
+.nav li{
+    width: 100px;
+    padding: 20px;
+}
